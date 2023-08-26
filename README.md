@@ -2,9 +2,13 @@
 
 Un blog basique pour la prise en main d'angular
 
-## Dependances
+## Dependances API
 
 `maker : composer require --dev symfony/maker-bundle`
 `Doctrine : composer require symfony/orm-pack`
 `register : composer require symfony/security-bundle`
-`fixtures : composer require --dev orm-fixtures`
+`fixtures : composer require --dev orm-fixtures` and `composer require espero-soft/faker:dev-master`
+
+## Dependances Angular
+
+`ng add @angular/material`
